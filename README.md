@@ -1,0 +1,1 @@
+Hey, I am Aditya Katariya, an AI-focused Computer Science student proficient in machine learning and Natural Language Processing. Interested in leveraging skills for Arduino projects and IoT development.
